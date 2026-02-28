@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi 👋 I'm Ailin, a Data Analytics graduate student at Georgia State University with a strong background in Mathematics. I develop data-driven solutions using machine learning, statistical analysis, and business intelligence tools. I'm passionate about transforming complex data into actionable insights and building practical AI-powered systems that solve real-world problems.
 
-<!--
-**ailinai-analytics/ailinai-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Skills 
 
-Here are some ideas to get you started:
+Programming – Python, SQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Analytics – Machine Learning, Statistical Analysis, Data Visualization, Power BI, Tableau  
+
+AI & Machine Learning – Agentic AI, Natural Language Processing, LangGraph, LlamaIndex, Vector Databases, Neo4j, Neural Networks, RAG Systems, SHAP, LIME, Beak AI Platform  
+
+Data Processing – Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering  
+
+Tools – GitHub, Jupyter Notebook, Streamlit  
